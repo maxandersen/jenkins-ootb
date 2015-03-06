@@ -1,0 +1,7 @@
+scm-api:latest
+ssh-agent:latest
+git-client:latest
+git:latest
+github-api:latest
+github:latest
+ghprb:latest
